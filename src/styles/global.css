@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  height: 100%;
+  max-width: 100vw;
+
+  overflow-y: overlay;
+  overflow-x: hidden;
+  line-height: 1.6rem;
+  /* scroll-behavior: smooth; */
+
+
+  font-family: 'Quicksand', sans-serif ;
+}
+
+
+
